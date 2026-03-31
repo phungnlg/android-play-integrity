@@ -1,0 +1,1 @@
+Play Integrity API, screen state, attestation, cryptographic binding, SHA-256, nonce, integrity token, device integrity, app integrity, Android security, tamper detection, proof of state, Room, Jetpack Compose, Kotlin, MVVM, coroutines
